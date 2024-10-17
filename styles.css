@@ -103,7 +103,7 @@ body {
 }
 
 .Home-content h1 {
-  font-size: 56px;
+  font-size: 52px;
   font-weight: 700;
   margin: -3px 0;
   letter-spacing: 1px;
@@ -113,7 +113,7 @@ body {
 }
 
 .Home-content h3 {
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 700;
   opacity: 0;
   animation: slideBottom 1s ease forwards;
