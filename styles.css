@@ -251,7 +251,13 @@ body {
   font-size: 60px;
   padding-bottom: 10px;
 }
-
+@media (max-width: 430px) {
+  .services {
+    width: auto;
+    display: grid;
+    justify-content: center;
+  }
+}
 .services h1 span {
   color: aqua;
 }
